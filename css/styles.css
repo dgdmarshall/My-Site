@@ -62,6 +62,25 @@ a {
   bottom: 300px;
 }
 
+.skillRow {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+  }
+
+.fishImg {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.netImg {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
 /*.clouds {
   width: 200px;
   height: 75px;
